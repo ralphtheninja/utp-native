@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "napi-macros": "^1.8.1",
-    "node-gyp-build": "^3.5.0",
+    "node-gyp-build": "ralphtheninja/node-gyp-build#play",
     "readable-stream": "^3.0.2",
     "timeout-refresh": "^1.0.0",
     "unordered-set": "^2.0.1"
